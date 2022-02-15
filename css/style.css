@@ -189,11 +189,6 @@ body {
 }
 .social-media a {
     float: left;
-    color: rgb(18, 49, 133);
     text-align: center;
     padding: 14px 16px;
-    text-decoration: none;
-    font-size: 12px;
-    text-transform: uppercase;
-    letter-spacing: 1px;
 }
